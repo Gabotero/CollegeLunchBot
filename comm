@@ -1,0 +1,3 @@
+java -cp "gabriel/TelegramBot/lib/*:." gabriel/TelegramBot/Main
+
+javac -cp "gabriel/TelegramBot/lib/*:." gabriel/TelegramBot/*.java
